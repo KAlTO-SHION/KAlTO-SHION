@@ -1,9 +1,10 @@
 <p align="center">
   <img width="400" height="400" src="https://file.garden/aSJbsl0SJQxLqVG5/4982c822c7cfcf7eaca7241d0ff68a55.jpg">
 </p>
+<p align="center">no more interesting github il remake it soon</p>
 <h5 align="center"> 
 
-[atabook](https://kkaitoshion.atabook.org/)ㅤ✦ㅤ[shared rentry](https://rentry.co/nutellapretzel)ㅤ✦ㅤ[rentry](https://rentry.co/gakukaiyaoii)ㅤ✦ㅤ[strwpg](https://kalto-shion.straw.page) </h5>
+[atabook](https://kkaitoshion.atabook.org/)ㅤ𓏼ㅤ[shared rentry](https://rentry.co/nutellapretzel)ㅤ𓏼ㅤ[rentry](https://rentry.co/gakukaiyaoii)ㅤ𓏼ㅤ[strwpg](https://kalto-shion.straw.page) </h5>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -15,4 +16,5 @@
 <p align="center">
   <img width="500" height="500" src="https://file.garden/aSJbsl0SJQxLqVG5/IMG_3360.png">
 </p>
+<p align="center">whatever that is and zel-kun is #CANON! kyah! >//<</p>
 
