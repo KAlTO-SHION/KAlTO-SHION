@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="1000" src="https://file.garden/aSJbsl0SJQxLqVG5/Untitled481_20260103154454.png">
+  <img width="400" height="400" src="https://file.garden/aSJbsl0SJQxLqVG5/4982c822c7cfcf7eaca7241d0ff68a55.jpg">
 </p>
 <h5 align="center"> 
 
@@ -13,10 +13,6 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p align="center">
-  <img width="500" height="500" src="https://file.garden/aSJbsl0SJQxLqVG5/Untitled481_20260103165414_edit_239225764485147.png">
-</p>
-
-<p align="center">
-  <img width="700" height="700" src="https://file.garden/aSJbsl0SJQxLqVG5/Untitled481_20260103164800.png">
+  <img width="500" height="500" src="https://file.garden/aSJbsl0SJQxLqVG5/IMG_3360.png">
 </p>
 
