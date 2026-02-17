@@ -4,7 +4,7 @@
 <p align="center">no more interesting github il remake it soon</p>
 <h5 align="center"> 
 
-[atabook](https://kkaitoshion.atabook.org/)ㅤ𓏼ㅤ[shared rentry](https://rentry.co/nutellapretzel)ㅤ𓏼ㅤ[rentry](https://rentry.co/gakukaiyaoii)ㅤ𓏼ㅤ[strwpg](https://kalto-shion.straw.page) </h5>
+[atabook](https://kkaitoshion.atabook.org/)ㅤ𓏼ㅤ[rentry](https://rentry.co/gakukaiyaoii)ㅤ𓏼ㅤ[strwpg](https://kalto-shion.straw.page) </h5>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
