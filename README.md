@@ -2,7 +2,7 @@
 ㅤㅤㅤㅤ
 
 <p>
- <img width="900" height=690" src="https://i.imgur.com/2dQOLkn.png">
+ <img width="800" height=690" src="https://i.imgur.com/2dQOLkn.png">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=405a82&abbreviated)</p>
