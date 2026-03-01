@@ -6,17 +6,16 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=405a82&abbreviated)</p>
-ㅤ
-ㅤ
-ㅤㅤ
-<h6 align="center">
-  
-[rentry](https://rentry.co/gakukaiyaoii)‎ ‎ ‎ ‎‎‎ ‎ 𓈒‎ ‎ ‎‎‎ ‎ [atabook](https://kkaitoshion.atabook.org/)‎‎ ‎ ‎ ‎‎‎ ‎𓈒 ‎ ‎ ‎ ‎‎‎ ‎ [strawpage](https://kalto-shion.straw.page)
 
-</h6>
+<p align="center">
+ 
+ [<img width="200" height="200" alt="https://i.imgur.com/dOK9qsA.png" src="https://i.imgur.com/dOK9qsA.png" />](https://rentry.co/gakukaiyaoii) [<img width="200" height="200" alt="https://i.imgur.com/YSZLSXY.png" src="https://i.imgur.com/YSZLSXY.png" />](https://kkaitoshion.atabook.org/) [<img width="200" height="200" alt="https://i.imgur.com/dOK9qsA.png" src="https://i.imgur.com/dOK9qsA.png" />](https://kalto-shion.straw.page)
+ 
+</p>
+
+
 ㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
