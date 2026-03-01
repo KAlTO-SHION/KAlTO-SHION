@@ -18,7 +18,7 @@
 ㅤㅤ
 <h6 align="center">
   
-[rentry wip](https://rentry.co/gakukaiyaoii)‎ ‎ ‎ ‎‎‎ ‎ 𓈒‎ ‎ ‎‎‎ ‎ [atabook](https://kkaitoshion.atabook.org/)‎‎ ‎ ‎ ‎‎‎ ‎𓈒 ‎ ‎ ‎ ‎‎‎ ‎ [strawpage](https://kalto-shion.straw.page)
+[rentry](https://rentry.co/gakukaiyaoii)‎ ‎ ‎ ‎‎‎ ‎ 𓈒‎ ‎ ‎‎‎ ‎ [atabook](https://kkaitoshion.atabook.org/)‎‎ ‎ ‎ ‎‎‎ ‎𓈒 ‎ ‎ ‎ ‎‎‎ ‎ [strawpage](https://kalto-shion.straw.page)
 
 </h6>
 ㅤ
