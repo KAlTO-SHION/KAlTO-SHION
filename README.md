@@ -9,11 +9,11 @@
 
 <p align="center">
  
- [<img width="200" height="200" alt="https://i.imgur.com/dOK9qsA.png" src="https://i.imgur.com/dOK9qsA.png" />](https://rentry.co/gakukaiyaoii) [<img width="200" height="200" alt="https://i.imgur.com/YSZLSXY.png" src="https://i.imgur.com/YSZLSXY.png" />](https://kkaitoshion.atabook.org/) [<img width="200" height="200" alt="https://i.imgur.com/dOK9qsA.png" src="https://i.imgur.com/dOK9qsA.png" />](https://kalto-shion.straw.page)
+ [<img width="200" height="200" alt="https://i.imgur.com/dOK9qsA.png" src="https://i.imgur.com/dOK9qsA.png" />](https://rentry.co/gakukaiyaoii) [<img width="200" height="200" alt="https://i.imgur.com/YSZLSXY.png" src="https://i.imgur.com/YSZLSXY.png" />](https://kkaitoshion.atabook.org/)
  
 </p>
 
-click the images above!
+click the images above!(rentry & atabook)
 
 
 ㅤㅤ
