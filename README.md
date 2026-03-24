@@ -1,10 +1,11 @@
 <div align="center">
 ㅤㅤㅤㅤ
-![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=405a82&abbreviated)</p>
  
 <p>
  <img width="400" height=300" src="https://file.garden/aSJbsl0SJQxLqVG5/2de6ab3e3d3f97b220c2acb431627a04.gif">
 </p>
+
+![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=405a82&abbreviated)</p>
 
 <p align="center">
  
