@@ -1,7 +1,7 @@
 <div align="left">
 ㅤㅤㅤㅤ
 
-![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=c9c9c9&abbreviated)</p>
+  ![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=c9c9c9&abbreviated)</p>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
