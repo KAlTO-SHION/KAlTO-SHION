@@ -2,8 +2,11 @@
 ㅤㅤㅤㅤ
 
 
-![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=405a82&abbreviated)</p>
+![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=c9c9c9&abbreviated)</p>
 
+<p>
+  <img width="100" height="90" src="https://file.garden/aSJbsl0SJQxLqVG5/b3.gif">
+</p>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
