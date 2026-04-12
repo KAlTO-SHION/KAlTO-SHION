@@ -1,7 +1,7 @@
 <div align="center">
 ㅤㅤㅤㅤ
 
-  ![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=7aadff&abbreviated)</p>
+  ![](https://komarev.com/ghpvc/?username=KAlTO-SHION&label=(°ロ°)&color=75baff&abbreviated)</p>
 
 
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -14,5 +14,5 @@
 [rentry](https://rentry.co/gakukaiyaoii)  [atabook](https://kkaitoshion.atabook.org/)
 
 <p align="center">
-  <img width="1000" height="1000" src="https://file.garden/aSJbsl0SJQxLqVG5/tumblr_8d595e89df806f847ba0e5fdb23e0539_9d8e5362_2048.png">
+  <img width="1000" height="1000" src="https://file.garden/aSJbsl0SJQxLqVG5/tumblr_90773fa716ffac42da56e0d2dd499688_c5fe7ecb_2048.png">
 </p>
