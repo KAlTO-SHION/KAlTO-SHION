@@ -14,5 +14,5 @@
 [rentry](https://rentry.co/gakukaiyaoii)  [atabook](https://kkaitoshion.atabook.org/)
 
 <p align="center">
-  <img width="1000" height="1000" src="https://file.garden/aSJbsl0SJQxLqVG5/tumblr_5a521bf681284ffb58cdca6c1b7ad4fe_7e3b6a4a_2048.png">
+  <img width="1000" height="1000" src="https://file.garden/aSJbsl0SJQxLqVG5/tumblr_8d595e89df806f847ba0e5fdb23e0539_9d8e5362_2048.png">
 </p>
