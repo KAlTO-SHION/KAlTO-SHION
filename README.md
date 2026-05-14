@@ -13,6 +13,5 @@
 
 [rentry](https://rentry.co/gakukaiyaoii)  [atabook](https://kkaitoshion.atabook.org/)
 
-<p align="center">
-  <img width="1000" height="1000" src="https://file.garden/aSJbsl0SJQxLqVG5/tumblr_90773fa716ffac42da56e0d2dd499688_c5fe7ecb_2048.png">
-</p>
+
+no idea what happened to the image
