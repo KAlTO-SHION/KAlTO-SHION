@@ -11,7 +11,7 @@
 
 <h5 align="center">
 
-[rentry](https://rentry.co/gakukaiyaoii)  [atabook](https://kkaitoshion.atabook.org/)
+[updated rentry](https://rentry.co/Iovelife)  [atabook](https://kkaitoshion.atabook.org/)
 
 
 no idea what happened to the image
